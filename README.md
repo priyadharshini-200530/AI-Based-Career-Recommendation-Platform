@@ -52,4 +52,4 @@ ai-career-recommendation-platform/
 
 ## Author
 
-**Dharshini** — [GitHub](https://github.com/priyadharshini-200530)
+**Bandi Priyadharshini** — [GitHub](https://github.com/priyadharshini-200530)
